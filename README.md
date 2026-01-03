@@ -18,9 +18,9 @@ We build technology, and more! We are expanding __PaternMal__ as a proxy backend
 > const response = await fetch("http://127.0.0.1:8080/");
 > ```
 > so, you must allow __Local Network Access__ permission.
-> ## [LackPour](https://github.com/windows10do/LackPour) <sup>Coming Soon</sup>
+> ## [LakPour](https://github.com/windows10do/LakPour) <sup>Coming Soon</sup>
 > Free way to learn how to cook foods.
 >
-> The structure is broken. The README leads "Open Structure" to wrong path. Bug will be fixed.
+> The structure is broken. The README leads "Check Structure" to wrong path. Bug will be fixed.
 
 _Thank you for support._
