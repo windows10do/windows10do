@@ -22,5 +22,9 @@ We build technology, and more! We are expanding __PaternMal__ as a proxy backend
 > Free way to learn how to cook foods.
 >
 > The structure is broken. The README leads "Check Structure" to wrong path. Bug will be fixed.
+> ## [MalRus](https://github.com/windows10do/MalRus) <sup>Beta</sup> ![Stars](https://img.shields.io/github/stars/windows10do/MalRus?style=social) ![Forks](https://img.shields.io/github/forks/windows10do/MalRus?style=social)
+> An free software for Termux that scans.
 
-_Thank you for support._
+> [!NOTE]
+> 
+> Thank you for support.
